@@ -1,0 +1,95 @@
+.findUs{
+    width: 1300px;
+height: 125px;
+top: 1719px;
+left: 52px;
+opacity: 1;
+display: flex;
+justify-content: space-between;
+align-items: center;
+ padding-top: 100px;
+
+}
+.barcode{
+    width: 131.509521484375px;
+height: 84px;
+top: 1719px;
+left: 52px;
+opacity: 1;
+display: flex;
+align-items: center;
+gap: 5px;
+
+}
+.qrcode{
+    width: 43.79277420043945px;
+height: 44.18043899536133px;
+top: 1719px;
+left: 53.62px;
+opacity: 1;
+
+
+}
+.more{
+    width: 70px;
+height: 35.99887466430664px;
+top: 1722.27px;
+left: 99.63px;
+opacity: 1;
+font-family: "Montserrat";
+font-weight: 700;
+font-style: Bold;
+font-size: 9.47px;
+line-height: 121%;
+letter-spacing: 1%;
+color: black;
+
+
+}
+.infomation a,p{
+    font-family: "Montserrat";
+font-weight: 700;
+font-style: Bold;
+font-size: 7.89px;
+line-height: 121%;
+letter-spacing: 8%;
+color: black;
+padding-top: -40px;
+
+}
+.handle{
+    width: 279.4577331542969px;
+height: 18px;
+top: 1785px;
+left: 587.28px;
+opacity: 1;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding-top: 70px;
+
+}
+.quote{
+    width: 225.8948974609375px;
+height: 116px;
+top: 1728px;
+left: 1180.1px;
+opacity: 1;
+color: rgba(0, 0, 0, 1);
+font-family: "Montserrat";
+font-weight: 700;
+font-style: Bold;
+font-size: 16px;
+line-height: 121%;
+letter-spacing: 1%;
+padding-top: 50px;
+display: flex;
+gap: 6px;
+
+
+}
+ .Facebook, .Instagram, .LinkedIn{
+    display: flex;
+    gap: 8px;
+    align-items: center;
+ }

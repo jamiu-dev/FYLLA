@@ -1,0 +1,185 @@
+.about_us_container {
+  width: 1300px;
+  height: 304px;
+  top: 949px;
+  left: 50px;
+  opacity: 1;
+  color: rgba(0, 0, 0, 1);
+  padding-top: 20px;
+
+}
+.displayFlexContainer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.about_us{
+    width: 72.86292266845703px;
+height: 75px;
+top: 930px;
+left: 50px;
+opacity: 1;
+font-family: "Lato";
+font-weight: 500;
+font-style: Medium;
+font-size: 18px;
+line-height: 75px;
+letter-spacing: 0%;
+
+
+}
+.objective{
+ width: 500px;
+height: 189px;
+top: 1064px;
+left: 50px;
+opacity: 1;
+font-family: "Lato";
+font-weight: 600;
+font-style: SemiBold;
+font-size: 20px;
+line-height: 60px;
+letter-spacing: 0%;
+
+
+
+}
+.theVision{
+width: 211px;
+height: 119px;
+opacity: 1;
+border-width: 1px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.vision{
+    width: 153px;
+height: 85px;
+top: 24px;
+left: 58px;
+opacity: 1;
+font-family: "Inter";
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+margin: 0px;
+
+
+}
+.vision_container{
+    width: 153px;
+height: 105px;
+top: 4px;
+left: 58px;
+opacity: 1;
+
+}
+.tittle{
+    width: 55px;
+height: 19px;
+top: 4px;
+left: 58px;
+opacity: 1;
+font-family: "Inter";
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+
+
+
+}
+.theInnovation{
+    width: 210px;
+height: 123px;
+opacity: 1;
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+.tittle_innovation{
+    width: 100px;
+height: 19px;
+left: 277px;
+opacity: 1;
+font-family: "Inter";
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+
+
+}
+.innovation{
+    width: 153px;
+height: 102px;
+top: 20px;
+left: 277px;
+opacity: 1;
+font-family: "Inter";
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+
+
+}
+.connection_p_tag{
+    width: 153px;
+height: 85px;
+top: 20px;
+left: 496px;
+opacity: 1;
+font-family: "Inter";
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+
+
+}
+.theConnection{
+    width: 210px;
+height: 123px;
+opacity: 1;
+border-width: 1px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+.tittle_connection{
+    width: 109px;
+height: 19px;
+left: 496px;
+opacity: 1;
+font-family: "Inter";
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+
+
+}
+.visionInnovatioConnection{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 628.4426879882812px;
+height: 123px;
+top: 1088px;
+left: 772.56px;
+opacity: 1;
+gap: 9px;
+
+}
